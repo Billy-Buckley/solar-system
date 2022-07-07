@@ -1,0 +1,72 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 5px;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
+body, a, a:link { 
+    color: #ffffff;
+    text-decoration: none;
+}
+
+a:hover { 
+    font-weight: 800;
+}
+
+body {
+    background-image: url("http://b50ym1n8ryw31pmkr4671ui1c64-wpengine.netdna-ssl.com/wp-content/blogs.dir/11/files/2015/06/ShootingStar_Donated_JordanReed.jpg");
+    background-repeat: no-repeat;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th:nth-child(even),
+td:nth-child(even) {
+    background-color: #D6EEEE;
+}
+
+
+table,
+th,
+td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+th:nth-child(odd),
+td:nth-child(odd) {
+    background-color: #D6EEEE;
+}
