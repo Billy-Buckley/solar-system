@@ -69,7 +69,7 @@ td {
 
 th:nth-child(odd),
 td:nth-child(odd) {
-    background-color: purple;
+    background-color: #800080;
 }
 
 img {
