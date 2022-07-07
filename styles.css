@@ -55,7 +55,7 @@ td {
 
 th:nth-child(even),
 td:nth-child(even) {
-    background-color: #D6EEEE;
+    background-color: #800080;
 }
 
 
@@ -64,7 +64,7 @@ th,
 td {
     border: 1px solid black;
     border-collapse: collapse;
-    color: purple;
+    ;
 }
 
 th:nth-child(odd),
