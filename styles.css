@@ -81,5 +81,12 @@ img {
     }
     
 
+ #my-element {
+	scroll-behavior: smooth;
+}
+
+html {
+	scroll-behavior: smooth;
+}
 
 
