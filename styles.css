@@ -70,3 +70,11 @@ th:nth-child(odd),
 td:nth-child(odd) {
     background-color: #D6EEEE;
 }
+
+img {
+    display: block;
+    max-width: 400px;
+    max-height: 400px;
+    width: auto;
+    height: auto;
+    }
